@@ -6,7 +6,7 @@ upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numb = "1234567890"
 simb = "!/@:;#$%&"
 
-char = lower + upper + numb
+char = lower + upper + numb + simb
 
 print("=-"*22)
 print("Welcome to Password Generator - brunols7")
