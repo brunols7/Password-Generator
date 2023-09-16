@@ -5,8 +5,6 @@ You only need to choose your password length.
 
 ---
 
----
-
 ### :hammer_and_wrench: Languages and Tools Used:
 
 
